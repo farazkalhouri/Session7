@@ -10,3 +10,8 @@ div{
   height: 200px;
   background-color: blueviolet;
 }
+div:nth-of-type(2){
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
